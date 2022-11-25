@@ -1,0 +1,9 @@
+						body{ background-image: url("images/rk.jpg");
+							background-repeat: no-repeat;
+							background-attachment: fixed;
+							border: dotted 20px black; 
+						
+							background-color: skyblue;
+						}	
+						p,ol,ul 	{ margin-left: 400px;
+						}	
